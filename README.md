@@ -1,6 +1,6 @@
 # 👋 Hello, I'm M. Khalil Ghiati
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Infrastructure+%26+Security+Engineer;Cloud+%26+DevOps+Specialist;Cybersecurity+Professional;5G+%26+Telecom+Expert)](https://portfolio-khalil-secure.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=50C878&center=true&vCenter=true&width=600&lines=Infrastructure+%26+Security+Engineer;Cloud+%26+DevOps+Specialist;Cybersecurity+Professional;5G+%26+Telecom+Expert)](https://portfolio-khalil-secure.vercel.app/)
 
 **🌍 Based in Lyon, France | 🎯 Open to new opportunities — passionate about securing and automating infrastructure**
 
