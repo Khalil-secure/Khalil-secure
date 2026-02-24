@@ -116,7 +116,7 @@ seeking: Senior Infrastructure / Tech-Ops / DevSecOps roles
 | 🔐 Security | ⚙️ DevOps / Cloud | 🎯 Practical |
 |---|---|---|
 | TryHackMe — SOC Level 1 ✅ | Microsoft Azure AZ-900 ✅ | Root-Me — 100+ challenges ✅ |
-| TryHackMe — Jr Penetration Tester ✅ | ANSSI Security Frameworks ✅ | TOEIC 940/990 🇬🇧 ✅ |
+| TryHackMe — Jr Penetration Tester ✅ | ANSSI Security Frameworks ✅ |
 | MITRE ATT&CK Practitioner | Kubernetes & Docker (hands-on) | CTF Competitions |
 
 ---
