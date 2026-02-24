@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ghiati-khalil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medkhalilghiati@gmail.com)
 
-📧 **medkhalilghiati@gmail.com** | 📱 **07 74 73 89 29**
+📧 **medkhalilghiati@gmail.com** 
 
 ---
 
