@@ -40,34 +40,6 @@ seeking: Senior Infrastructure / Tech-Ops / DevSecOps roles
 
 ---
 
-## 💼 Professional Experience
-
-### 🏢 Chef de Projet Télécom @ Bouygues Telecom *(Sept. 2024 – Sept. 2025)*
-
-**Key Achievements:**
-- ⚡ **+90% efficiency gain** through API-based automation of data collection across 300+ sites
-- 📡 Successfully delivered **4 major telecom projects** with full stakeholder reporting
-- 🔐 **5G security analysis** following ANSSI recommendations and compliance audits
-- 🤖 Explored **AI-driven optimization** for operational workflows
-- 🛠️ **Stack:** 5G · LTE · 4G · Wi-Fi · FTTH · IMS · VoLTE · DWDM · ANSSI
-
-### 🔬 ML Engineer & Chef de Projet @ CogniScan *(Avr. – Août 2024)*
-
-**Key Achievements:**
-- 📊 Built interactive **data visualization tools** with Python, Dash, Plotly
-- 🧠 Optimized **CNN models** for medical imaging anomaly detection
-- 🔊 Developed **signal processing algorithms** for biological signature extraction
-- 🛠️ **Stack:** Python · PyTorch · TensorFlow · Matlab · REST API · Embedded Systems
-
-### 🏗️ Assistant Responsable Infrastructure IT @ ETEX Group *(Juin – Août 2023)*
-
-**Key Achievements:**
-- 📈 Deployed **Centreon monitoring** for 1,200+ terminals across Western Europe
-- 🔄 **Migrated server fleet** from VMware to Hyper-V with full monitoring integration
-- 🔒 Hardened **Linux servers** per CIS benchmarks and ANSSI recommendations
-- 🛠️ **Stack:** Linux · Docker · Centreon · Hyper-V · Bash · Python · MySQL · Firewall
-
----
 
 ## 🛠️ Technical Arsenal
 
@@ -109,28 +81,7 @@ seeking: Senior Infrastructure / Tech-Ops / DevSecOps roles
 [![VoLTE](https://img.shields.io/badge/VoLTE/IMS-6C3483?style=for-the-badge)]()
 [![ANSSI](https://img.shields.io/badge/ANSSI_Compliance-003087?style=for-the-badge)]()
 
----
 
-## 🏆 Certifications & Training
-
-| 🔐 Security | ⚙️ DevOps / Cloud | 🎯 Practical |
-|---|---|---|
-| TryHackMe — SOC Level 1 ✅ | Microsoft Azure AZ-900 ✅ | Root-Me — 100+ challenges ✅ |
-| TryHackMe — Jr Penetration Tester ✅ | ANSSI Security Frameworks ✅ |
-| MITRE ATT&CK Practitioner | Kubernetes & Docker (hands-on) | CTF Competitions |
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack | Link |
-|---|---|---|---|
-| 🔒 **Zero Trust K8s Lab** | Full Zero Trust architecture on k3s: NetworkPolicies, mTLS via Istio, OPA/Gatekeeper, MITRE ATT&CK simulations | `Kubernetes` `Terraform` `Istio` `WireGuard` `OPA` `Trivy` | [View →](https://github.com/Khalil-secure/zero-trust-k8s-lab) |
-| 🏠 **Homelab SOC** | Complete SOC on isolated Docker network: Suricata IDS/IPS, ELK Stack correlation, CI/CD security pipeline | `Suricata` `ELK Stack` `Docker` `Fail2ban` `GitHub Actions` | [View →](https://github.com/Khalil-secure/homelab-soc) |
-| ☁️ **CloudOps Vault Lab** | Production-grade GCP infrastructure: Terraform IaC, Ansible hardening, Vault secrets, HA Load Balancer | `GCP` `Terraform` `Ansible` `Vault` `PostgreSQL` `MongoDB` | [View →](https://github.com/Khalil-secure/cloudops-vault-lab) |
-| 🤖 **5G Site Automation** | API-based automation for data collection and qualification across 300+ telecom sites | `Python` `REST API` `5G` `LTE` | Private |
-
----
 
 ## 📊 GitHub Analytics
 
@@ -138,12 +89,6 @@ seeking: Senior Infrastructure / Tech-Ops / DevSecOps roles
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalil-secure&layout=compact&langs_count=7&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khalil-secure&theme=tokyonight)](https://git.io/streak-stats)
-
----
-
-## 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Khalil-secure&theme=tokyonight&no-frame=true&column=6)](https://github.com/Khalil-secure)
 
 ---
 
