@@ -85,9 +85,6 @@ seeking: Senior Infrastructure / Tech-Ops / DevSecOps roles
 
 ## 📊 GitHub Analytics
 
-![Khalil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khalil-secure&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalil-secure&layout=compact&langs_count=7&theme=tokyonight)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khalil-secure&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
