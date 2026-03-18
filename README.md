@@ -24,7 +24,7 @@ focus:
 current_position: Chef de Projet Télécom @ Bouygues Telecom
 location: Lyon, France
 languages: [French, English (TOEIC 940), Arabic]
-seeking: AI Infrastructure / DevSecOps / Tech-Ops roles
+seeking: Cybersecurity / DevSecOps / Tech-Ops roles
 ```
 
 I build systems where **AI is a first-class infrastructure component** — not a plugin bolted on top.
