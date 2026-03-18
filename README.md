@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Khalil Ghiati
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=4ADE80&center=true&vCenter=true&width=650&lines=AI+Infrastructure+Engineer;DevSecOps+%26+Cloud+Security;LLM+Agents+for+Production+Systems;5G+%26+Telecom+Expert)](https://portfolio-khalil-secure.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=4ADE80&center=true&vCenter=true&width=650&lines=Network+Engineer;Cybersecurity+%26+Cloud+Security;LLM+Agents+for+Production+Systems;5G+%26+Telecom+Expert)](https://portfolio-khalil-secure.vercel.app/)
 
 **Lyon, France — Open to opportunities at the intersection of AI and infrastructure**
 
@@ -15,7 +15,7 @@
 
 ```yaml
 name: M. Khalil Ghiati
-role: AI Infrastructure Engineer
+role: Network Engineer
 focus:
   - LLM agents for infrastructure automation
   - DevSecOps & Cloud Security
