@@ -17,14 +17,14 @@
 name: M. Khalil Ghiati
 role: Network Engineer
 focus:
+  - Cybersecurity (Blue Team)
   - LLM agents for infrastructure automation
   - DevSecOps & Cloud Security
-  - Zero Trust architectures on Kubernetes
   - 5G / Telecom Infrastructure
 current_position: Chef de Projet Télécom @ Bouygues Telecom
 location: Lyon, France
 languages: [French, English (TOEIC 940), Arabic]
-seeking: Cybersecurity / DevSecOps / Tech-Ops roles
+seeking: Cybersecurity / SOC analyst /DevSecOps roles
 ```
 
 I build systems where **AI is a first-class infrastructure component** — not a plugin bolted on top.
