@@ -146,8 +146,6 @@ This project is a foundation. Here's where it goes next:
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khalil-secure&theme=tokyonight)](https://git.io/streak-stats)
-
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Khalil-secure&theme=tokyo-night)](https://github.com/Khalil-secure)
 
 ---
