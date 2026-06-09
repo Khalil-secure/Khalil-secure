@@ -90,18 +90,6 @@ This project is a foundation. Here's where it goes next:
 
 > The end goal: infrastructure that explains itself, fixes itself, and documents itself — with a human always in the loop.
 
----
-
-## 🛡️ Other Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**MailGuard**](https://github.com/Khalil-secure/Mailguard_extension_preview) | Browser extension detecting phishing & social engineering in real time | JS, Chrome API, NLP |
-| [**MailGuard Alternative**](https://github.com/Khalil-secure/MailGuard_alternative) | Lightweight variant with extended BEC & spoofing detection rules | JS, Chrome API |
-| **Zero Trust Lab** | Full K8s Zero Trust: Istio mTLS, Cilium, OPA Gatekeeper | Kubernetes, Istio, Terraform |
-| **ELK SIEM** | Production SIEM with Suricata IDS, automated Wazuh responses | ELK, Suricata, Wazuh |
-
----
 
 ## 🛠️ Tech Stack
 
@@ -148,17 +136,7 @@ This project is a foundation. Here's where it goes next:
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Khalil-secure&theme=tokyo-night)](https://github.com/Khalil-secure)
 
----
-
-## Beyond the Terminal
-
-**Languages:** 🇫🇷 French — Fluent &nbsp;|&nbsp; 🇬🇧 English — TOEIC 940/990 &nbsp;|&nbsp; 🇸🇦 Arabic — Native
-
-**Interests:** 🥋 Karate Shodan (Black Belt) &nbsp;|&nbsp; 🤼 BJJ &nbsp;|&nbsp; 🏆 CTF (Root-Me, TryHackMe) &nbsp;|&nbsp; 🌐 Hackathons (Lablab.ai)
-
----
 
 [![Email](https://img.shields.io/badge/Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medkhalilghiati@gmail.com)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-khalil-secure.vercel.app/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Khalil-secure&label=Profile+Views&color=4ade80&style=flat)
